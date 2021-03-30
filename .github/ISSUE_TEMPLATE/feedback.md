@@ -1,5 +1,5 @@
 ---
-name: Feedbacl
+name: Feedback
 about: General feedback about 2nd-JFCOM
 title: ''
 labels: Feedback
